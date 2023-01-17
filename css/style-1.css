@@ -49,3 +49,29 @@ thead {
 #highlight {
     background-color: yellow;
 }
+
+.interesse {
+    color:darkgray;
+    font-weight: bolder;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.testo-foto1 {
+    position: relative;
+}
+.testo1 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    color: white;
+}
+
+.testo-foto2 {
+    position: relative;
+}
+.testo2 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    color: white;
+}
