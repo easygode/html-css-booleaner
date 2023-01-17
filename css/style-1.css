@@ -7,6 +7,23 @@ header {
 
 #logo {
     width: 200px;
-    border-bottom: 0;
     margin-top: 50px ;
 }
+
+.titolone {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.nota1 {
+color: darkgrey;
+}
+
+#autore {
+    color:blue
+}
+
+.data {
+    color: darkgrey;
+    font-size: 10px;
+    }
