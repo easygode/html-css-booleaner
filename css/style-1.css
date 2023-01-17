@@ -31,3 +31,17 @@ color: darkgrey;
 section {
 margin-top: 10px;
 }
+
+thead {
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+
+#riga-colore1 {
+    background-color: cornflowerblue;
+}
+
+#riga-colore2 {
+    background-color: white;
+}
