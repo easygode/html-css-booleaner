@@ -1,3 +1,4 @@
+ /*Sfondo e logo Boolenears*/
 header {
     background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
@@ -9,7 +10,7 @@ header {
     width: 200px;
     margin-top: 50px ;
 }
-
+/*Titolo Autore Data*/
 .titolone {
     font-size: 45px;
     font-weight: bold;
@@ -28,10 +29,12 @@ color: darkgrey;
     font-size: 10px;
     }
 
+/*Margine tutte le sezioni*/
 section {
 margin-top: 10px;
 }
 
+/*Tabella*/
 thead {
     background-color: blue;
     color: white;
@@ -46,16 +49,19 @@ thead {
     background-color: white;
 }
 
+/*Evidenziatore*/
 #highlight {
     background-color: yellow;
 }
 
+/*Interesse*/
 .interesse {
     color:darkgray;
     font-weight: bolder;
     padding-top: 5px;
     padding-bottom: 10px;
 }
+*/Testo nelle foto a pie di pagina*/
 .testo-foto1 {
     position: relative;
 }
