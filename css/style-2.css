@@ -1,0 +1,86 @@
+header {
+    background-image: url(../img/pattern.png);
+    background-color: cornflowerblue;
+    background-size:cover;
+    height: 100px;
+}
+
+#logo {
+    width: 200px;
+    margin-top: 50px ;
+}
+
+.titolone {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: fantasy;
+}
+
+.nota1 {
+color: red;
+}
+
+#autore {
+    color:blue
+}
+
+.nota2 {
+    text-decoration: underline;
+    }
+
+ .nota3 {
+        text-decoration: underline;
+        }
+
+.data {
+    color: darkgrey;
+    font-size: 10px;
+    }
+
+section {
+margin-top: 10px;
+}
+
+thead {
+    background-color: green;
+    color: white;
+    text-align: left;
+}
+
+#riga-colore1 {
+    background-color: pink;
+}
+
+#riga-colore2 {
+    background-color: yellow;
+}
+
+#highlight {
+    background-color: yellow;
+}
+
+.interesse {
+    color:darkgray;
+    font-weight: bolder;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.testo-foto1 {
+    position: relative;
+}
+.testo1 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    color: white;
+}
+
+.testo-foto2 {
+    position: relative;
+}
+.testo2 {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    color: green;
+}
